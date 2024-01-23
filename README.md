@@ -8,5 +8,5 @@ Expモードを2チャネル，Linモードを1チャネル
 
 ## 回路図
 
-!['schematics'](SM2164-15V-Dual15V.png)
+![schematics](SSM2164-15V-Dual15V.png)
 - [version 1.0](SSM2164-15V-Dual15V.pdf) 
